@@ -1,0 +1,18 @@
+[{
+        "ID": "1",
+        "nev": "kávéfőző",
+        "ar": "5500",
+        "szin": "fekete"
+    },
+    {
+        "ID": "2",
+        "nev": "babakocsi",
+        "ar": "12500",
+        "szin": "rózsaszín"
+    },
+    {
+        "ID": "3",
+        "nev": "konzoljáték",
+        "ar": "99000",
+        "szin": "fehér"
+    }]
